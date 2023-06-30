@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283290290572",
+    "project_id": "mad-pract-6---hannah",
+    "storage_bucket": "mad-pract-6---hannah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283290290572:android:f33fcf990dada26db0eea9",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.madpractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283290290572-30c11hirbj2m1lp8qiotu6km8ineslii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWU6UB59Chihbx8_2BT7X7OwzaK7UJ0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283290290572-30c11hirbj2m1lp8qiotu6km8ineslii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
